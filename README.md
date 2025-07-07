@@ -2,6 +2,7 @@ A Constructive Proof of the Riemann Hypothesis and Generalized Riemann Hypothesi
 
 Tom Gatward (ORCID: 0009-0009-1167-6421)
 
+[![DOI](https://zenodo.org/badge/1015556502.svg)](https://doi.org/10.5281/zenodo.15831308)
 
 ## Overview
 
